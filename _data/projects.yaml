@@ -1,0 +1,27 @@
+projects:
+  - title: "Neural Tracing/Segmentation in Densely Labeled Multispectral Images"
+    thumbnail: "assets/projects/2020_NIH/thumbnail.png"
+    selected: y
+
+  - title: "Neural Network Pruning"
+    thumbnail: "assets/projects/2019_NSF/thumbnail.png"
+    selected: y
+
+  - title: "Multi-Modal Cooperative Dialog Agents"
+    thumbnail: "assets/projects/2020_ECCV/thumbnail.png"
+    selected: y
+
+  - title: "Multi-camera Human Pose/Action/Activity Recognition and Estimation"
+    thumbnail: "assets/projects/pe/thumbnail.png"
+    selected: y
+
+  - title: "First-person Vision Analysis"
+    thumbnail: "assets/projects/fpv/thumbnail.png"
+    selected: y
+
+  - title: "Complex Video Analysis"
+    thumbnail: "assets/projects/cva/thumbnail.png"
+    selected: y
+
+
+
